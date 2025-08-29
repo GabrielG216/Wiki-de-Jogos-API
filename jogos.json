@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "nome": "Hollow Knight",
+    "ano": 2017,
+    "genero": "metroidvania",
+    "img": {
+      "imagem1": "https://i.pinimg.com/736x/71/a9/23/71a92360cb0c1fc5ce6981685079ac2e.jpg",
+      "imagem2": "https://wallpapers.com/images/hd/cool-poster-of-hollow-knight-3m0hhvrju8ckag4h.jpg",
+      "imagem3": "https://www.pixelstalk.net/wp-content/uploads/images6/Hollow-Knight-Desktop-Wallpaper.jpg"
+    },
+    "descricao": "Um metroidvania desafiador em um mundo sombrio e misterioso."
+  },
+  {
+    "id": 2,
+    "nome": "Celeste",
+    "ano": 2018,
+    "genero": "plataforma",
+    "img": {
+      "imagem1": "https://i.pinimg.com/736x/b7/8c/e0/b78ce04047e9226611cbcccc3396e29d.jpg",
+      "imagem2": "https://i.pinimg.com/736x/26/0d/4b/260d4b7de8bb63698e8d7d59b3d0d719.jpg",
+      "imagem3": "https://cdn.wallpapersafari.com/89/18/p69fEX.png"
+  },
+  "descricao": "Um jogo de plataforma sobre superar desafios internos e externos."
+},
+{
+  "id": 3,
+  "nome": "Stardew Valley",
+    "ano": 2016,
+    "genero": "aventura",
+    "img": {
+    "imagem1": "https://m.media-amazon.com/images/I/71tkhfHRTDL.jpg",
+    "imagem2": "https://wallpapers.com/images/hd/stardew-valley-1920-x-1080-background-m8ab866rcwsuisuk.jpg",
+    "imagem3": "https://wallpapers.com/images/hd/stardew-valley-1920-x-1080-background-flc6xtz2pom4x63l.jpg"
+  },
+  "descricao": "Construa sua fazenda e explore a vida no campo."
+  },
+  {
+    "id": 4,
+    "nome": "Undertale",
+    "ano": 2015,
+    "genero": "puzzle",
+    "img": {
+      "imagem1": "https://wallpapers.com/images/hd/undertale-sans-zmfgtkoxznsuwf23.jpg",
+      "imagem2": "https://images7.alphacoders.com/798/798682.png",
+      "imagem3": "https://images2.alphacoders.com/737/thumb-1920-737439.png"
+    },
+    "descricao": "Um RPG único onde suas escolhas realmente importam."
+  },
+  {
+    "id": 5,
+    "nome": "Red Dead Redemption II",
+    "ano": 2018,
+    "genero": "mundo-aberto",
+    "img": {
+      "imagem1": "https://printler.com/media/photo/147519.jpg",
+      "imagem2": "https://wallpapers.com/images/hd/red-dead-redemption-2-desktop-6l9sm1fd0wc2ibs0.jpg",
+      "imagem3": "https://wallpapers.com/images/hd/red-dead-redemption-2-4k-gang-6ym4xjxqehnkac8w.jpg"
+    },
+    "descricao": "Um jogo de ação e aventura ambientado no Velho Oeste."
+  },
+  {
+    "id": 6,
+    "nome": "It Takes Two",
+    "ano": 2021,
+    "genero": "puzzle",
+    "img": {
+      "imagem1": "https://variety.com/wp-content/uploads/2022/01/It-Takes-Two-e1643647274115.jpg",
+      "imagem2": "https://wallpapercat.com/w/full/d/7/9/980-1920x1080-desktop-full-hd-it-takes-two-wallpaper-image.jpg",
+      "imagem3": "https://cdnb.artstation.com/p/assets/images/images/039/197/895/large/magdalena-katanska-final-color-2.jpg?1625210107"
+    },
+    "descricao": "Um jogo de ação e aventura que pode ser jogado em cooperativo."
+  },
+  {
+    "id": 7,
+    "nome": "Bully Scholarship Edition",
+    "ano": 2008,
+    "genero": "mundo-aberto",
+    "img": {
+        "imagem1": "https://upload.wikimedia.org/wikipedia/pt/d/de/Bully_us_capa_pt.jpg",
+        "imagem2": "https://images4.alphacoders.com/655/655417.jpg",
+        "imagem3": "https://images8.alphacoders.com/655/655420.jpg"
+    },
+    "descricao": "Viva a vida escolar em Bullworth Academy neste clássico de ação e aventura da Rockstar."
+  },
+  {
+    "id": 8,
+    "nome": "Castlevania: Symphony of the Night",
+    "ano": 1997,
+    "genero": "metroidvania",
+    "img": {
+        "imagem1": "https://img.nsctotal.com.br/wp-content/uploads/2023/05/Castlevania-Symphony-of-the-Night-1-e1683293017234-800x531.jpg",
+        "imagem2": "https://images2.alphacoders.com/485/thumb-1920-48522.jpg",
+        "imagem3": "https://wallpapers.com/images/hd/castlevania-symphony-alucard-1lmmvnxdouiaa10v.jpg"
+    },
+    "descricao": "Explore o castelo de Drácula em um dos mais icônicos metroidvanias de todos os tempos."
+  },
+{
+    "id": 9,
+    "nome": "Spider Man",
+    "ano": 2018,
+    "genero": "mundo-aberto",
+    "img": {
+        "imagem1": "https://wallpapers.com/images/hd/spider-man-ps4-logo-a6p179ptb3w1wwsg.jpg",
+        "imagem2": "https://c4.wallpaperflare.com/wallpaper/924/800/901/spider-man-artwork-ps4-red-wallpaper-preview.jpg",
+        "imagem3": "https://4kwallpapers.com/images/wallpapers/marvels-spider-man-1920x1200-11990.jpeg"
+    },
+    "descricao": "Viva as aventuras do Homem-Aranha em Nova York neste aclamado jogo de ação."
+},
+{
+    "id": 10,
+    "nome": "Rocket League",
+    "ano": 2015,
+    "genero": "esporte",
+    "img": {
+        "imagem1": "https://i.pinimg.com/474x/3b/f7/c6/3bf7c6a4d52505ede9e3582480d62545.jpg",
+        "imagem2": "https://img.elo7.com.br/product/600x380/4724FF2/kit-papel-digital-rocket-league-league-game.jpg",
+        "imagem3": "https://wallpapers.com/images/hd/rocket-league-art-ckht54mmgypvwsh0.jpg"
+    },
+    "descricao": "Futebol com carros em partidas rápidas e cheias de ação."
+},
+{
+    "id": 11,
+    "nome": "God of War: Ragnarok",
+    "ano": 2022,
+    "genero": "aventura",
+    "img": {
+        "imagem1": "https://upload.wikimedia.org/wikipedia/pt/a/a5/God_of_War_Ragnar%C3%B6k_capa.jpg",
+        "imagem2": "https://4kwallpapers.com/images/wallpapers/god-of-war-ragnarok-kratos-atreus-2022-games-playstation-4-3440x1440-8636.jpg",
+        "imagem3": "https://w0.peakpx.com/wallpaper/964/106/HD-wallpaper-god-of-war-ragnarok-gives-kratos-a-whole-new-suite-of-elemental-moves-gamesradar-god-of-war-ragnorok.jpg"
+    },
+    "descricao": "Kratos e Atreus enfrentam deuses nórdicos em uma jornada épica pelo Ragnarok."
+},
+{
+  "id": 12,
+  "nome": "Cuphead",
+  "ano": 2017,
+  "genero": "ação",
+  "img": {
+    "imagem1": "https://upload.wikimedia.org/wikipedia/pt/c/c1/Cuphead_capa.png",
+    "imagem2": "https://www.pixelstalk.net/wp-content/uploads/images6/Cuphead-Wallpaper-HD-Free-download.png",
+    "imagem3": "https://images.alphacoders.com/873/873679.jpg"
+  },
+  "descricao": "Um jogo de ação com visual de desenho animado dos anos 1930, famoso por sua dificuldade."
+},
+{
+  "id": 13,
+  "nome": "Fifa 23",
+  "ano": 2022,
+  "genero": "esporte",
+  "img": {
+    "imagem1": "https://p2.trrsf.com/image/fget/cf/1200/1200/middle/images.terra.com/2022/09/26/k1ppf4vvih56fu2viym8xr6x-rhdd24l8ihcz.jpg",
+    "imagem2": "https://w0.peakpx.com/wallpaper/785/93/HD-wallpaper-fifa-23-gaming.jpg",
+    "imagem3": "https://images.alphacoders.com/125/1257798.jpg"
+  },
+  "descricao": "O simulador de futebol mais popular do mundo em sua edição de 2023."
+},
+{
+  "id": 14,
+  "nome": "NBA 2K23",
+  "ano": 2022,
+  "genero": "esporte",
+  "img": {
+    "imagem1": "https://s2-ge.glbimg.com/yHFB6Z4jsCknqXeHQ3F9jEweCAQ=/0x0:1079x1349/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/j/2/UL9aUgQNOjbHeFrl4GhQ/wnba.png",
+    "imagem2": "https://wallpapercave.com/wp/wp11351398.jpg",
+    "imagem3": "https://wallpapercave.com/wp/wp11351414.jpg"
+  },
+  "descricao": "Simulador de basquete com times e jogadores da NBA."
+},
+{
+  "id": 15,
+  "nome": "Counter Strike: Global Offensive",
+  "ano": 2012,
+  "genero": "plataforma",
+  "img": {
+    "imagem1": "https://www.esportelandia.com.br/app/uploads/2019/10/1.-onde-jogar-counter-strike.png",
+    "imagem2": "https://cdn.bhdw.net/im/cs-go-wallpaper-21413_w635.webp",
+    "imagem3": "https://wallpapers.com/images/hd/elite-crew-4k-cs-go-mgt3cqizodtnlyzc.jpg"
+  },
+  "descricao": "Clássico jogo de tiro em primeira pessoa focado em partidas competitivas."
+},
+{
+  "id": 16,
+  "nome": "The Last of Us",
+  "ano": 2013,
+  "genero": "ação",
+  "img": {
+    "imagem1": "https://upload.wikimedia.org/wikipedia/pt/b/be/The_Last_of_Us_capa.png",
+    "imagem2": "https://images3.alphacoders.com/129/1295037.jpg",
+    "imagem3": "https://images7.alphacoders.com/132/1326068.jpeg"
+  },
+  "descricao": "Acompanhe Joel e Ellie em uma jornada emocionante por um mundo pós-apocalíptico."
+},
+{
+  "id": 17,
+  "nome": "Fortnite",
+  "ano": 2017,
+  "genero": "plataforma",
+  "img": {
+    "imagem1": "https://cdn1.epicgames.com/offer/fn/FNBR_37-00_C6S4_EGS_Launcher_KeyArt_FNLogo_Blade_1200x1600_1200x1600-0924136c90b79f9006796f69f24a07f6",
+    "imagem2": "https://www.internetmatters.org/wp-content/uploads/2024/11/Fortnite-game-image.webp",
+    "imagem3": "https://cdn.ome.lt/QhF8RWLEo7W6pAfFiEL0K4gs81A=/1200x630/smart/extras/conteudos/fortnite-battle-royale.jpg"
+  },
+  "descricao": "Battle royale colorido e frenético com construção e eventos sazonais."
+},
+{
+  "id": 18,
+  "nome": "GTA San Andreas",
+  "ano": 2004,
+  "genero": "mundo-aberto",
+  "img": {
+    "imagem1": "https://i.pinimg.com/1200x/50/4e/74/504e74d283e1262270cd89556edffa7b.jpg",
+    "imagem2": "https://wallpapers.com/images/hd/gta-sa-4k-orange-car-o4j4al46twzd4njz.jpg",
+    "imagem3": "https://wallpapers.com/images/hd/gta-sa-4k-main-character-hdglahkbi0d0wfjv.jpg"
+  },
+  "descricao": "Explore o estado fictício de San Andreas em uma das franquias mais icônicas dos games."
+},
+{
+  "id": 19,
+  "nome": "GTA V",
+  "ano": 2013,
+  "genero": "mundo-aberto",
+  "img": {
+    "imagem1": "https://i.pinimg.com/736x/a1/2f/67/a12f675f3ab4be535b105148b1eacbf0.jpg",
+    "imagem2": "https://wallpapers.com/images/hd/gta-5-landscape-art-2a58lbxzfpa0xjg7.jpg",
+    "imagem3": "https://4kwallpapers.com/images/wallpapers/gta-5-grand-theft-3840x2160-10749.jpg"
+  },
+  "descricao": "Viva aventuras em Los Santos com três protagonistas em um mundo aberto vibrante."
+},
+{
+  "id": 20,
+  "nome": "House Flipper",
+  "ano": 2018,
+  "genero": "simulação",
+  "img": {
+    "imagem1": "https://wallpapercave.com/wp/wp9490498.jpg",
+    "imagem2": "https://e1.pxfuel.com/desktop-wallpaper/80/85/desktop-wallpaper-house-flipper-2-announced.jpg",
+    "imagem3": "https://images3.alphacoders.com/135/thumb-1920-1358481.jpeg"
+  },
+  "descricao": "Compre, reforme e venda casas em um simulador de reformas divertido."
+},
+{
+  "id": 21,
+  "nome": "Mortal Kombat X",
+  "ano": 2015,
+  "genero": "plataforma",
+  "img": {
+    "imagem1": "https://upload.wikimedia.org/wikipedia/pt/3/37/Mortal_Kombat_X_capa.jpg",
+    "imagem2": "https://assets.nuuvem.com/image/upload/v1/products/557dbb7969702d0a9cd59900/sharing_images/buaswidrmz590ixm5jax.jpg",
+    "imagem3": "https://i.pinimg.com/736x/49/3e/06/493e06dc95dbdaae7bbcbe7266532d0b.jpg"
+  },
+  "descricao": "Jogo de luta com gráficos modernos, personagens clássicos e novos, e fatalities icônicos."
+}
+]

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wiki de Jogos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <h1>Wiki de Jogos</h1>
+      <input type="text" id="searchInput" placeholder="Buscar jogo...">
+      <select id="filterGenero">
+        <option value="todos">Todos</option>
+        <option value="aventura">Aventura</option>
+        <option value="plataforma">Plataforma</option>
+        <option value="puzzle">Puzzle</option>
+        <option value="metroidvania">Metroidvania</option>
+        <option value="mundo-aberto">Mundo Aberto</option>
+        <option value="esporte">Esporte</option>
+        <option value="ação">Ação</option>
+        <option value="simulação">Simulação</option>
+      </select>
+  <!-- <button class="modoDark" onclick="toggleTema()">🌙</button> -->
+      <a href="favoritos.html">❤️ Favoritos</a>
+    </nav>
+  </header>
+
+  <main>
+    <div id="listaJogos" class="grid"></div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
