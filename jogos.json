@@ -243,12 +243,372 @@
   "id": 21,
   "nome": "Mortal Kombat X",
   "ano": 2015,
-  "genero": "plataforma",
+  "genero": "luta",
   "img": {
     "imagem1": "https://upload.wikimedia.org/wikipedia/pt/3/37/Mortal_Kombat_X_capa.jpg",
     "imagem2": "https://assets.nuuvem.com/image/upload/v1/products/557dbb7969702d0a9cd59900/sharing_images/buaswidrmz590ixm5jax.jpg",
     "imagem3": "https://i.pinimg.com/736x/49/3e/06/493e06dc95dbdaae7bbcbe7266532d0b.jpg"
   },
   "descricao": "Jogo de luta com gráficos modernos, personagens clássicos e novos, e fatalities icônicos."
+},
+{
+  "id": 22,
+  "nome": "LEGO MARVEL Super Heroes",
+  "ano": 2013,
+  "genero": "aventura",
+  "img": {
+    "imagem1": "https://cdn.ome.lt/legacy/images/galerias/LEGO-Marvel-Super-Heroes/Lego_Marvel_Super_Heroes_Capa.jpg",
+    "imagem2": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000025461/8a87b6c21c03139337dccc2b7b89c15278c52997e65bdd088e52ba7006d0e3de",
+    "imagem3": "https://wallpapers.com/images/hd/4k-lego-marvel-superheroes-nupvy6lkpggt9sgz.jpg"
+  },
+  "descricao": "Jogo de ação-aventura com personagens do universo Marvel em formato LEGO."
+},
+{
+  "id": 23,
+  "nome": "LEGO DC Super Villains",
+  "ano": 2018,
+  "genero": "aventura",
+  "img": {
+    "imagem1": "https://image.api.playstation.com/cdn/UP1018/CUSA11542_00/kdjKM4iuhNNNzHmYGMDTpl5wf9jaTF6U.png?w=440",
+    "imagem2": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/pt_BR/dlc/switch-dlc/lego-dc-super-villains-dlc/rom-bundle/lego-dc-super-villains-deluxe-edition/image",
+    "imagem3": "https://wallpapers.com/images/hd/4k-villain-tw4sgrue8xxyngpr.jpg"
+  },
+  "descricao": "Jogo de ação-aventura onde os vilões da DC são os protagonistas em um mundo LEGO."
+},
+{
+  "id": 24,
+  "nome": "Minecraft",
+  "ano": 2011,
+  "genero": "simulação",
+  "img": {
+    "imagem1": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png",
+    "imagem2": "https://wallpapercat.com/w/full/8/b/4/1090-1920x1080-desktop-1080p-minecraft-wallpaper.jpg",
+    "imagem3": "https://i.redd.it/hey-i-just-realised-that-minecraft-dropped-wallpapers-for-v0-af632nce2dud1.jpg?width=3840&format=pjpg&auto=webp&s=102770acfd3d1534ba97f09cfcaab822e6485b9e"
+  },
+  "descricao": "Jogo de construção e sobrevivência em mundo aberto feito de blocos."
+},
+{
+  "id": 25,
+  "nome": "Ready or Not",
+  "ano": 2021,
+  "genero": "FPS",
+  "img": {
+    "imagem1": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1414/10836f8f9597e43150ac804279f24be7e2875a442ff73733.png",
+    "imagem2": "https://cdn1.epicgames.com/spt-assets/e2c3bc6771dc4524a4730b379f8242c7/ready-or-not-gu75g.png",
+    "imagem3": "https://4kwallpapers.com/images/walls/thumbs_2t/23166.jpg"
+  },
+  "descricao": "Jogo de tiro tático em primeira pessoa focado em operações policiais realistas."
+},
+{
+  "id": 26,
+  "nome": "Terraria",
+  "ano": 2011,
+  "genero": "aventura",
+  "img": {
+    "imagem1": "https://upload.wikimedia.org/wikipedia/pt/e/ee/Terraria_capa.png",
+    "imagem2": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000001702/dac3a26570b5ca1ddf703bf0add7cc7c527f71a2b56521baf69e20c7a573c610",
+    "imagem3": "https://wallpapers.com/images/featured/terraria-yh91c2aa58r81wcb.jpg"
+  },
+  "descricao": "Jogo de aventura em 2D com exploração, construção e combate."
+},
+{
+  "id": 27,
+  "nome": "Naruto Shippuden: Ultimate Ninja Storm 4",
+  "ano": 2016,
+  "genero": "luta",
+  "img": {
+    "imagem1": "https://cdn.wallpapersafari.com/16/82/GknCYW.jpg",
+    "imagem2": "https://wallpapercave.com/wp/wp2418996.jpg",
+    "imagem3": "https://images3.alphacoders.com/678/thumb-1920-678440.jpg"
+  },
+  "descricao": "Jogo de luta baseado no anime Naruto Shippuden, com batalhas épicas e história fiel."
+},
+{
+  "id": 28,
+  "nome": "Life is Strange",
+  "ano": 2015,
+  "genero": "aventura",
+  "img": {
+    "imagem1": "https://fyre.cdn.sewest.net/life-is-strange-hub/6634aba837d4a15412aaed4b/life-is-strange-2024-2--nN3g9MGLt.jpg?quality=85&width=3840",
+    "imagem2": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1265920/capsule_616x353.jpg?t=1748420882",
+    "imagem3": "https://wallpapers.com/images/featured/fundo-de-life-is-strange-wyhna4ghvjiaiwv3.jpg"
+  },
+  "descricao": "Jogo de aventura episódico com escolhas que afetam a narrativa e viagem no tempo."
+},
+{
+  "id": 29,
+  "nome": "Five Nights at Freddy's",
+  "ano": 2014,
+  "genero": "terror",
+  "img": {
+    "imagem1": "https://store-images.s-microsoft.com/image/apps.14120.13976193533566168.c56d73e5-020f-4be5-860c-ae506c27e2ca.c96def99-b8ab-457a-bcb1-20784fa313be",
+    "imagem2": "https://wallpapers.com/images/hd/five-nights-at-freddys-desktop-8b7a4ctw1o302tn2.jpg",
+    "imagem3": "https://i.redd.it/m87ok9d9b0uy.png"
+  },
+  "descricao": "Jogo de terror onde o jogador deve sobreviver a noites em uma pizzaria assombrada."
+},
+{
+  "id": 30,
+  "nome": "Speed Runners",
+  "ano": 2016,
+  "genero": "plataforma",
+  "img": {
+    "imagem1": "https://assets.nuuvem.com/image/upload/t_boxshot_big/v1/products/5ee7e2b8c883e679bf76c3ad/boxshots/lap6jfpbv9evalz67xzx.jpg",
+    "imagem2": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000014367/277f24b0d12a1cc5989bab989c4963541d6e5e246c9574915d4120e8ff6ab256",
+    "imagem3": "https://wallpapercave.com/wp/wp13938251.jpg"
+  },
+  "descricao": "Jogo de corrida em plataforma com multiplayer competitivo e power-ups."
+},
+{
+  "id": 31,
+  "nome": "Resident Evil 2",
+  "ano": 1998,
+  "genero": "terror",
+  "img": {
+    "imagem1": "https://uauposters.com.br/media/catalog/product/6/8/689520240913-uau-posters-resident-evil-2-remake-games.jpg",
+    "imagem2": "https://wallpapers.com/images/hd/claire-leon-vs-zombies-resident-evil-2-remake-zdxlvarz8hht5rzb.jpg",
+    "imagem3": "https://wallpapers.com/images/hd/1920x1080-resident-evil-2-background-4qf4uog599qp2a1g.jpg"
+  },
+  "descricao": "Clássico jogo de terror e sobrevivência com zumbis em Raccoon City."
+},
+{
+  "id": 32,
+  "nome": "Assasin's Creed Valhalla",
+  "ano": 2020,
+  "genero": "aventura",
+  "img": {
+    "imagem1": "https://upload.wikimedia.org/wikipedia/pt/e/e9/Assassins_Creed_Valhalla_capa.png",
+    "imagem2": "https://w0.peakpx.com/wallpaper/833/372/HD-wallpaper-valhalla-assassin-s-creed.jpg",
+    "imagem3": "https://wallpapers.com/images/hd/4k-assassin-s-creed-valhalla-background-3860-x-2160-hivo7syrvz9kerue.jpg"
+  },
+  "descricao": "Jogo de ação-aventura ambientado na era dos vikings."
+},
+{
+  "id": 33,
+  "nome": "Assasin's Creed Origins",
+  "ano": 2017,
+  "genero": "aventura",
+  "img": {
+    "imagem1": "https://upload.wikimedia.org/wikipedia/pt/f/fb/Assassins_Creed_Origins_capa.png",
+    "imagem2": "https://w0.peakpx.com/wallpaper/46/489/HD-wallpaper-assassins-creed-origins-origins-games-assassins-ubisoft-2017-video-creed.jpg",
+    "imagem3": "https://images.alphacoders.com/842/842583.jpg"
+  },
+  "descricao": "Jogo de ação-aventura que explora o Egito Antigo e a origem da Irmandade dos Assassinos."
+},
+{
+  "id": 34,
+  "nome": "Hogwarts Legacy",
+  "ano": 2023,
+  "genero": "aventura",
+  "img": {
+    "imagem1": "https://upload.wikimedia.org/wikipedia/pt/5/5a/Hogwarts_Legacy_capa.jpeg",
+    "imagem2": "https://www.hogwartslegacy.com/images/share.jpg",
+    "imagem3": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6703aada-2649-4453-b1cb-c1dade721c88/dg29l08-f4990e62-db64-48bc-8f95-c04904809ce0.png/v1/fill/w_1600,h_900,q_80,strp/hogwarts_legacy___ever_edition_4k_wallpaper_by_aksensei_dg29l08-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvNjcwM2FhZGEtMjY0OS00NDUzLWIxY2ItYzFkYWRlNzIxYzg4XC9kZzI5bDA4LWY0OTkwZTYyLWRiNjQtNDhiYy04Zjk1LWMwNDkwNDgwOWNlMC5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.6LjlLEOD-PgfJ1OsnOrEr-fayntSnFhEcHj8-OIQDns"
+  },
+  "descricao": "Jogo de RPG de ação ambientado no universo de Harry Potter, antes dos livros."
+},
+{
+  "id": 35,
+  "nome": "Fall Guys",
+  "ano": 2020,
+  "genero": "plataforma",
+  "img": {
+    "imagem1": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/FGSS04_KeyArt_OfferImagePortrait_1200x1600_1200x1600-4bd46574e78464352e1f2c55714701f7",
+    "imagem2": "https://s2-techtudo.glbimg.com/8VelkBMcCd5cfpt5a3hfC6RzK9Q=/0x0:1200x675/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/Y/I/kCdBWjTQ6JE4VAO8riBw/fall-guys-ultimate-knockout-gratis-xbox-one-series-nintendo-switch.jpg",
+    "imagem3": "https://images7.alphacoders.com/125/1250780.png"
+  },
+  "descricao": "Jogo de festa multiplayer com minigames e obstáculos divertidos."
+},
+{
+  "id": 36,
+  "nome": "Stumble Guys",
+  "ano": 2021,
+  "genero": "plataforma",
+  "img": {
+    "imagem1": "https://geekgamer-capas.nyc3.cdn.digitaloceanspaces.com/mgj5zuoe.png",
+    "imagem2": "https://wallpapers.com/images/hd/stumble-guys-gameplay-action-68j4bixik1ns6nuj.jpg",
+    "imagem3": "https://wallpapers.com/images/featured/stumble-guys-wk9mifb4lmip30ly.jpg"
+  },
+  "descricao": "Jogo de festa multiplayer inspirado em Fall Guys, com corridas e obstáculos."
+},
+{
+  "id": 37,
+  "nome": "Tomb Raider",
+  "ano": 2013,
+  "genero": "aventura",
+  "img": {
+    "imagem1": "https://f127738da9.cbaul-cdnwnd.com/1550e34a3e6c129d5c5b4c5beb8096e5/200000589-31f7732f03/TOMB%20RAIDER%209.jpg",
+    "imagem2": "https://wallpapers.com/images/hd/tomb-raider-game-l40ih9uq8utjgmft.jpg",
+    "imagem3": "https://wallpapers.com/images/featured/tomb-raider-w63px8xmmkzvd64k.jpg"
+  },
+  "descricao": "Reboot da franquia Tomb Raider, acompanhando a origem de Lara Croft."
+},
+{
+  "id": 38,
+  "nome": "Black Myth: Wukong",
+  "ano": 2024,
+  "genero": "ação",
+  "img": {
+    "imagem1": "https://cdn1.epicgames.com/spt-assets/ca9ef1bcf2f54043baac351366aec677/black-myth-wukong-jjjfw.png",
+    "imagem2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZbv6quyVXxvAMQPVvVW0j_bHr-rfN-v0zNVKky2Eu7UJfFs3f9gMsoWMfPpqv-tBNOdsMbPa05cISwD1RtwPMaOdTJAodrfkWQJZ19wrj0d857RyPa9eIG7Y1uCydWuoMkB6RI71HQY4YWqBDq7bMBORJMEMy5wlHbIb0d2J_KKJNxF_bpNSsKvClYJE/w1200-h630-p-k-no-nu/imagem_2024-08-16_101202956.png",
+    "imagem3": "https://images.hdqwalls.com/wallpapers/black-myth-wukong-digital-deluxe-edition-kj.jpg"
+  },
+  "descricao": "Jogo de ação inspirado na mitologia chinesa e na lenda do Rei Macaco."
+},
+{
+  "id": 39,
+  "nome": "Sea of Thieves",
+  "ano": 2018,
+  "genero": "aventura",
+  "img": {
+    "imagem1": "https://img.elo7.com.br/product/zoom/262571B/big-poster-gamer-sea-of-thieves-lo004-tamanho-90x60-cm-poster.jpg",
+    "imagem2": "https://shadow.tech/app/uploads/2025/01/SEAOFTHIEVES_KEYART.jpg",
+    "imagem3": "https://images.alphacoders.com/902/902096.jpg"
+  },
+  "descricao": "Jogo de aventura multiplayer em mundo aberto com temática pirata."
+},
+{
+  "id": 40,
+  "nome": "Valorant",
+  "ano": 2020,
+  "genero": "FPS",
+  "img": {
+    "imagem1": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d0db663bf28844dcbd744935cdd8c71083e0031c-5600x3150.jpg",
+    "imagem2": "https://s2-ge.glbimg.com/lZzLEDa_u8HdWKmYewzETjzargI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/d/h/OYQw1UTmWAoTA2Rk9EhQ/valorant.jpg",
+    "imagem3": "https://images.wallpapersden.com/image/download/valorant-hd-gaming_bWZpaGyUmZqaraWkpJRmbmdlrWZlbWU.jpg"
+  },
+  "descricao": "Jogo de tiro tático em primeira pessoa focado em partidas competitivas."
+},
+{
+  "id": 41,
+  "nome": "League of Legends",
+  "ano": 2009,
+  "genero": "plataforma",
+  "img": {
+    "imagem1": "https://notadogame.com/uploads/game/cover/250x/5bfdc36b22e14.jpg",
+    "imagem2": "https://macmagazine.com.br/wp-content/uploads/2019/05/22-league-of-legends.jpg",
+    "imagem3": "https://images4.alphacoders.com/119/1194463.jpg"
+  },
+  "descricao": "Jogo de batalha em arena online com times de campeões em partidas estratégicas."
+},
+{
+  "id": 42,
+  "nome": "Rayman Legends",
+  "ano": 2013,
+  "genero": "plataforma",
+  "img": {
+    "imagem1": "https://cdn-images.dzcdn.net/images/cover/b4d45f4e2c9994e393d8c7bf1aa09cde/0x1900-000000-80-0-0.jpg",
+    "imagem2": "https://gaming-cdn.com/images/products/233/616x353/rayman-legends-pc-ubisoft-connect-cover.jpg?v=1754300793",
+    "imagem3": "https://images4.alphacoders.com/793/thumb-1920-793287.jpg"
+  },
+  "descricao": "Jogo de plataforma com fases criativas e multiplayer cooperativo."
+},
+{
+  "id": 43,
+  "nome": "The Escapists 2",
+  "ano": 2017,
+  "genero": "simulação",
+  "img": {
+    "imagem1": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/egs-theescapists2-team17andmouldytoofstudios-s6-510x680-510x680-22e26fa7753b9b80df8d3ec01dee3e2f.jpg",
+    "imagem2": "https://wallpapercave.com/wp/wp3136216.jpg",
+    "imagem3": "https://store-images.s-microsoft.com/image/apps.41528.71661296418093514.421b0945-d7f4-4eeb-bc9a-161b1ebe5812.4c3a7bed-c397-414f-92f7-339c23b29b49?mode=scale&q=90&h=1080&w=1920&background=%23FFFFFF"
+  },
+  "descricao": "Jogo de simulação e estratégia onde o objetivo é escapar de prisões."
+},
+{
+  "id": 44,
+  "nome": "Brawlhalla",
+  "ano": 2017,
+  "genero": "luta",
+  "img": {
+    "imagem1": "https://geekgamer-capas.nyc3.cdn.digitaloceanspaces.com/1hprm4p0.png",
+    "imagem2": "https://www.f2p.com/wp-content/uploads/2017/05/Brawlhalla-wallpaper-3.jpeg",
+    "imagem3": "https://rare-gallery.com/mocahbig/439713-Brawlhalla-game-poster-Shovel-Knight.jpg"
+  },
+  "descricao": "Jogo de luta em plataforma gratuito com diversos personagens e modos."
+},
+{
+  "id": 45,
+  "nome": "Poppy Playtime",
+  "ano": 2021,
+  "genero": "terror",
+  "img": {
+    "imagem1": "https://cdn1.epicgames.com/spt-assets/465c0f6c95d04b1c86b280b4925fee2d/poppy-playtime-14phl.jpg",
+    "imagem2": "https://wallpapers.com/images/hd/poppy-playtime-background-u87jimyucmopxtiw.jpg",
+    "imagem3": "https://images3.alphacoders.com/138/1380409.jpg"
+  },
+  "descricao": "Jogo de terror em primeira pessoa com enigmas em uma fábrica de brinquedos abandonada."
+},
+{
+  "id": 46,
+  "nome": "Zelda: Breath of the Wild",
+  "ano": 2017,
+  "genero": "aventura",
+  "img": {
+    "imagem1": "https://upload.wikimedia.org/wikipedia/pt/0/0f/Legend_of_Zelda_Breath_of_the_Wild_capa.png",
+    "imagem2": "https://zelda.nintendo.com/breath-of-the-wild/assets/media/wallpapers/desktop-1.jpg",
+    "imagem3": "https://wallpapers.com/images/hd/the-legend-of-zelda-landscape-sword-5qvpc6rnsmwsdqbd.jpg"
+  },
+  "descricao": "Jogo de aventura em mundo aberto no universo de The Legend of Zelda."
+},
+{
+  "id": 47,
+  "nome": "Shadow of the Colossus",
+  "ano": 2005,
+  "genero": "aventura",
+  "img": {
+    "imagem1": "https://image.api.playstation.com/vulcan/img/rnd/202010/2319/XtqYrG2LWer39eExYBsh9J5x.png",
+    "imagem2": "https://wallpapercat.com/w/full/f/5/f/450-3840x2160-desktop-4k-shadow-of-the-colossus-wallpaper.jpg",
+    "imagem3": "https://images.hdqwalls.com/wallpapers/shadow-of-the-colossus-4k-s8.jpg"
+  },
+  "descricao": "Jogo de aventura focado em batalhas épicas contra colossos gigantes em um mundo misterioso."
+},
+{
+  "id": 48,
+  "nome": "Super Mario Odyssey",
+  "ano": 2017,
+  "genero": "plataforma",
+  "img": {
+    "imagem1": "https://upload.wikimedia.org/wikipedia/pt/9/99/Super_Mario_Odyssey_Capa.png",
+    "imagem2": "https://www.estadao.com.br/resizer/v2/4GDQSODGUJLGPBUTFQFHO3JTAU.jpg?quality=80&auth=33d0b6e0fc0df8b9e4b2e45614eada226bb7e1eff997910220df0e380133cd50&width=1200",
+    "imagem3": "https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/super-mario-odyssey-chromebook-wallpaper.jpg"
+  },
+  "descricao": "Jogo de plataforma 3D onde Mario explora diversos mundos para resgatar a Princesa Peach."
+},
+{
+  "id": 49,
+  "nome": "Call of Duty: Warzone",
+  "ano": 2020,
+  "genero": "ação",
+  "img": {
+    "imagem1": "https://www.oficinadanet.com.br/imagens/post/31466/capa-segundo-relatorio-call-of-duty-recebe-us-3-milhoes-por-dia-gracas-ao-warzone.png",
+    "imagem2": "https://wallpapers.com/images/hd/call-of-duty-warzone-4k-warship-96g22um6pu1u7i8y.jpg",
+    "imagem3": "https://wallpapers.com/images/hd/call-of-duty-warzone-4k-poster-jij79ziyns3oegfu.jpg"
+  },
+  "descricao": "Battle royale de tiro em primeira pessoa com partidas intensas e mapas grandes."
+},
+{
+  "id": 50,
+  "nome": "Sons Of The Forest",
+  "ano": 2023,
+  "genero": "aventura",
+  "img": {
+    "imagem1": "https://bdjogos.com.br/capas/18619-sons-of-the-forest-pc-capa-1.jpg",
+    "imagem2": "https://preview.redd.it/sons-of-the-forest-megathread-steam-pc-v0-v1cgfxb6y4ka1.jpg?auto=webp&s=7888efdfbca55a97f1408696cd2d7e80ec466aca",
+    "imagem3": "https://images8.alphacoders.com/131/thumb-1920-1319855.jpeg"
+  },
+  "descricao": "Jogo de aventura e sobrevivência em mundo aberto com elementos de terror."
+},
+{
+  "id": 51,
+  "nome": "Death Stranding",
+  "ano": 2019,
+  "genero": "aventura",
+  "img": {
+    "imagem1": "https://sm.ign.com/ign_br/game/d/death-stra/death-stranding-ps4_y6gq.jpg",
+    "imagem2": "https://wallpapers.com/images/hd/death-stranding-4k-video-game-poster-updyxzrpab2t1ft5.jpg",
+    "imagem3": "https://i.redd.it/jbdru28b08o11.jpg"
+  },
+  "descricao": "Jogo de ação e aventura dirigido por Hideo Kojima, onde o jogador atravessa um mundo pós-apocalíptico para conectar cidades isoladas."
 }
 ]
